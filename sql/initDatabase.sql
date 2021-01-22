@@ -1,0 +1,1 @@
+CREATE DATABASE genshin_db_fr;

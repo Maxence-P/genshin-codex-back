@@ -1,4 +1,4 @@
-INSERT INTO genshin_cities (city) VALUES (
+INSERT INTO genshin_cities (city) VALUES 
   ("Mondstadt"),
   ("Liyue"),
   ("Inazuma"),
@@ -7,4 +7,4 @@ INSERT INTO genshin_cities (city) VALUES (
   ("Natlan"),
   ("Snezhnaya"),
   ("Khaenri'ah")
-);
+;

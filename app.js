@@ -12,6 +12,8 @@ app.use(express.urlencoded({extended: true}));
 
 app.use("/", mainRouter);
 
+app.use('/public', express.static('public/assets'));
+
 app.listen(PORT, () => {
     console.log(`Server is listening to PORT ${PORT}`);
 });

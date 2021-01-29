@@ -1,4 +1,4 @@
-INSERT INTO genshin_visions (vision) VALUES (
+INSERT INTO genshin_visions (vision) VALUES 
   ("Pyro"),
   ("Hydro"),
   ("Anemo"),
@@ -6,4 +6,4 @@ INSERT INTO genshin_visions (vision) VALUES (
   ("Dendro"),
   ("Cryo"),
   ("Geo")
-);
+;
